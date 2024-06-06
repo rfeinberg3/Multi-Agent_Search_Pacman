@@ -1,4 +1,5 @@
 # Multi-Agent Search in Pacman
+![pacman_multi_agent](https://github.com/rfeinberg3/Multi-Agent_Search_Pacman/assets/95943957/2da3d117-8a5f-4dbb-977d-3118bf1b1478)
 
 ## Introduction
 
