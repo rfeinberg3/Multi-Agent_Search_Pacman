@@ -31,9 +31,9 @@ This repository contains the implementation of various search agents for the cla
 ## Project Structure
 
 - `multiAgents.py`: Contains the implementation of all multi-agent search agents. **Implemented!**
-- `pacman.py`: Main file to run Pacman games and describe the GameState type. **Support File**
-- `game.py`: Describes the logic of the Pacman world, including supporting types like AgentState, Agent, Direction, and Grid. **Support File**
-- `util.py`: Provides useful data structures for implementing search algorithms. **Support File**
+- `pacman.py`: Main file to run Pacman games and describe the GameState type. **Reviewed**
+- `game.py`: Describes the logic of the Pacman world, including supporting types like AgentState, Agent, Direction, and Grid. **Reviewed**
+- `util.py`: Provides useful data structures for implementing search algorithms. **Reviewed**
 
 ## Running the Project
 
